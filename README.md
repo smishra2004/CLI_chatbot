@@ -56,7 +56,9 @@ This is a simple command line interface based chat application built using pytho
 2. API: Google Gemini(Text Generation+Function Calling)
 3. File I/O for saving review, chat history and rating
 
-## Example![Screenshot 2025-04-22 232440](https://github.com/user-attachments/assets/1856bd57-6a7f-4711-8325-dfe030438996)
+## Example Chat Session
+
+![Screenshot 2025-04-22 232440](https://github.com/user-attachments/assets/1856bd57-6a7f-4711-8325-dfe030438996)
 
 
 ![Screenshot 2025-04-22 232632](https://github.com/user-attachments/assets/3c2bbf2f-427b-4abe-95dd-a993eeade52b)

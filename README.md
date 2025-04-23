@@ -19,18 +19,21 @@ This is a simple command line interface based chat application built using pytho
 ## Getting Started
 1. Clone the repository to your local machine.
 2. Install python version 3.12.3
+3. Install requirements.txt file or follow the below steps to install dependencies
 
-3. Create a virtual environment and activate it
+ ```pip install -r requirements.txt```
+
+4. Create a virtual environment and activate it
 
 ```python -m venv venv```
 
 ```venv\Scripts\activate``` 
 
-4. Install google-generativeai package to interact with gemini:
+5. Install google-generativeai package to interact with gemini:
 
 ```pip install google-generativeai ```
 
-5. Gemini API key setup:
+6. Gemini API key setup:
 
 ```GOOGLE_API_KEY = "YOUR_API_KEY_HERE"```
 
@@ -43,7 +46,7 @@ This is a simple command line interface based chat application built using pytho
    
    c. Copy the generated key to your clipboard.
    
-   6. Run the application by launching the chatbot from your teminal:
+7. Run the application by launching the chatbot from your teminal:
 
  ```python cli_chat.py```
 

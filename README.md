@@ -21,6 +21,7 @@ This is a simple command line interface based chat application built using pytho
 2. Install python version 3.12.3
 
 3. Create a virtual environment and activate it
+
 ```python -m venv venv```
 
 ```venv\Scripts\activate``` 

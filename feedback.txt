@@ -38,3 +38,7 @@ Rating: 3.0/5
 --- New Feedback ---
 Review: nice and precise
 Rating: 5.0/5
+
+--- New Feedback ---
+Review: nice
+Rating: 4.0/5

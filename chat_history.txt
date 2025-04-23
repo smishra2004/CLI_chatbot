@@ -102,3 +102,10 @@ The reader sends out radio waves. When a tag comes within range of the reader's 
 You: bye
 Gemini: Before you go, could you leave a short review and a rating (1–5)?
 
+You: hello
+Gemini: Hello there! How can I help you today?
+
+
+You: bye
+Gemini: Before you go, could you leave a short review and a rating (1–5)?
+

@@ -9,7 +9,7 @@ This is a simple command line interface based chat application built using pytho
 
 2. The app detects when you want to end the chat using phrases like:
 
-bye, exit, end chat, or i want to leave
+   bye, exit, end chat, or i want to leave
 
 3. Before you exit, the bot asks for review and rating, your response is structured and extracted using Gemini’s Function Calling feature. Also handles invalid and empty responses. 
 
@@ -36,13 +36,13 @@ bye, exit, end chat, or i want to leave
  Get your free Gemini API key here:
  https://aistudio.google.com/app/apikey
  
- a. Click on "Get API Key" or navigate to the API Keys section.
- 
- b. Choose "Create API Key".
- 
- c. Copy the generated key to your clipboard.
- 
- 6. Run the application by launching the chatbot from your teminal:
+   a. Click on "Get API Key" or navigate to the API Keys section.
+   
+   b. Choose "Create API Key".
+   
+   c. Copy the generated key to your clipboard.
+   
+   6. Run the application by launching the chatbot from your teminal:
 
  ```python cli_chat.py```
 

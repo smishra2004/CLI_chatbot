@@ -26,24 +26,27 @@ bye, exit, end chat, or i want to leave
 ```venv\Scripts\activate``` 
 
 4. Install google-generativeai package to interact with gemini:
+
 ```pip install google-generativeai ```
 
 5. Gemini API key setup:
+
 ```GOOGLE_API_KEY = "YOUR_API_KEY_HERE"```
 
-Get your free Gemini API key here:
-https://aistudio.google.com/app/apikey
+ Get your free Gemini API key here:
+ https://aistudio.google.com/app/apikey
+ 
+ a. Click on "Get API Key" or navigate to the API Keys section.
+ 
+ b. Choose "Create API Key".
+ 
+ c. Copy the generated key to your clipboard.
+ 
+ 6. Run the application by launching the chatbot from your teminal:
 
-a. Click on "Get API Key" or navigate to the API Keys section.
+ ```python cli_chat.py```
 
-b. Choose "Create API Key".
-
-c. Copy the generated key to your clipboard.
-
-6. Run the application by launching the chatbot from your teminal:
-```python cli_chat.py```
-
-7. Your CLI-based chatbot is ready to use.
+8. Your CLI-based chatbot is ready to use.
 
 
     
@@ -54,8 +57,6 @@ c. Copy the generated key to your clipboard.
 
 ## Screenshots![Screenshot 2025-04-22 232440](https://github.com/user-attachments/assets/1856bd57-6a7f-4711-8325-dfe030438996)
 
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ![Screenshot 2025-04-22 232632](https://github.com/user-attachments/assets/3c2bbf2f-427b-4abe-95dd-a993eeade52b)
 

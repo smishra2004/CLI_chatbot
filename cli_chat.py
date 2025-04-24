@@ -2,7 +2,7 @@ import google.generativeai as genai
 import os
 
 # Set your Gemini API key
-GOOGLE_API_KEY = "AIzaSyCl4ya11RtKYtJF2XQMzZ5jHk1gpZsBvmI"
+GOOGLE_API_KEY = "YOUR API KEY"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Define exit commands to watch for
